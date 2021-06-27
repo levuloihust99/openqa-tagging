@@ -1,0 +1,18 @@
+.field-positive {
+    text-align: justify;
+    width: 32%;
+}
+
+.field-hard_negative {
+    text-align: justify;
+    width: 32%;
+}
+
+.field-question {
+    text-align: justify;
+    width: 15%;
+}
+
+.column-answers {
+    width: 16%;
+}
